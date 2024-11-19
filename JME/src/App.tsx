@@ -12,18 +12,18 @@ import ProductView from "./pages/ProductView"; // Create a page for viewing a si
 function App() {
   return (
     <Router>
+      {/*@ts-ignore */}
       <NavBar />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/cards" element={<Cards />} />
-        <Route path="/featured-products" element={<FeaturedProducts />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/new-products" element={<NewProducts />} />
-        <Route path="/our-products" element={<OurProducts />} />
-        <Route path="/product/:code" element={<ProductView />} />
-        <Route path='/contact' element={<Footer /> } />
+        <Route path='/' element={<Home />} />
+        <Route path='/cards' element={<Cards />} />
+        <Route path='/featured-products' element={<FeaturedProducts />} />
+        <Route path='/about' element={<About />} />
+        <Route path='/new-products' element={<NewProducts />} />
+        <Route path='/our-products' element={<OurProducts />} />
+        <Route path='/product/:code' element={<ProductView />} />
+        <Route path='/contact' element={<Footer />} />
       </Routes>
-     
     </Router>
   );
 }
