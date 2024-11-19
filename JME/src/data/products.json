@@ -1,0 +1,116 @@
+{
+    "products": [
+      {
+        "productName": "Hemosec® – Laparoscopic Applier",
+        "productImage": "/prd/laproscopic.jpg",
+        "category": "Clips & Appliers",
+        "productCode": "CA001",
+        "productDetails": {},
+        "description": "Clients can avail from us a comprehensive range of Hemosec – Laparoscopic Applier which is a 35cm long disposable cannulated applicator in a pack of 6. Device obturator allows for a precise FloSeal application to the base of the lesion. Handle ergonomics facilitate device manipulation. Cannula rigidity aids in device navigation and precise material delivery.",
+        "features": {},
+        "pdf": "https://example.com/docs/smartphone-pro-x-manual.pdf",
+        "application": ""
+      },
+      {
+        "productName": "Hemosec® – Open Applier",
+        "productImage": "/prd/open-Applier.jpg",
+        "category": "Clips & Appliers",
+        "productCode": "CA002",
+        "productDetails": { },
+        "description": "We Design and develop Hemosec - Open Applier which is a reusable instrument designed to deliver and close metallic ligating clips. This open applier is used with Hemosec Clips which are either 316 L stainless steel or titanium. The applier has ergonomically designed handle that provides comfort and control. It has diamond shaped grooving for a traumatic secure ligation Triangular shaped wire for easy squeeze application.",
+        "features": {},
+        "pdf": "https://example.com/docs/ecosmart-blender-specs.pdf",
+        "application": ""
+      },
+      {
+        "productName": "Hemosec® – Titanium Clips",
+        "productImage": "/prd/HemosecClips.jpg",
+        "category": "Clips & Appliers",
+        "productCode": "CA003",
+        "productDetails": {},
+        "description": "The Hemosec Clip Applier manufactured by us is a reusable instrument designed to deliver and close metallic ligating clips. This instrument is combined with Hemosec Clips. The range is made from either 316 L stainless steel or titanium. The clips are designed for the ligation of tubular structures where a non absorbable ligating device is indicated. <Br />The ligating clips are positioned around a tubular structure and closed by applying pressure to the handles of the applier.",
+        "features": {},
+        "pdf": "https://example.com/docs/ecosmart-blender-specs.pdf",
+        "application": ""
+      },
+      {
+        "productName": "Linear Cutter Reloads",
+        "productImage": "/prd/linearcutter.png",
+        "category": "Clips & Appliers",
+        "productCode": "CA004",
+        "productDetails": [{
+            "th":["Ref. Code","Product Description","Product Description","Formed Height"],
+            "tb": [
+              ["LPLCR60PBX", "60mm Reload for Medium Tissue", "3.8mm", "1.5mm"],
+              ["LPLCR80PBX", "80mm Reload for Medium Tissue", "3.8mm", "1.5mm"],
+              ["LPLCR100PBX", "100mm Reload for Medium Tissue", "3.8mm", "1.5mm"],
+              ["LPLCR60PGX", "60mm Reload for Thick Tissue", "4.8mm", "2.0mm"],
+              ["LPLCR80PGX", "80mm Reload for Thick Tissue", "4.8mm", "2.0mm"],
+              ["LPLCR100PGX", "100mm Reload for Thick Tissue", "4.8mm", "2.0mm"]
+            ]
+            
+      }],
+        "description": "New 440 Stainless Steel Blade with each cartridge enables sharper transection, reduces tissue trauma and avoids cross contamination in anastomosis.<Br />Blade Shield covers blade before and after-firing, prevents sharp injuries and accidental pre-firings.<Br />Floating Reload Design makes the reload float above the edge of the fork before closing the stapler fully, thereby avoiding mis-firing.<Br /> Tissue End Position ensures complete stapling of tissue in the jaw of the instrument, enabling secure ligation and haemostasis.",
+        "features": {},
+        "pdf": "https://example.com/docs/ecosmart-blender-specs.pdf",
+        "application": ""
+      },
+      {
+        "productName": "ProSec® Skin Staplers",
+        "productImage": "/prd/prosec-skin-stapler.jpg",
+        "category": "Clips & Appliers",
+        "productCode": "CA005",
+        "productDetails": [
+            {
+                "th":[],
+                "tb":[["Staple Dimension","wide"],["Wire Diameter","0.60 mm"],["Span","7.2mm"],["Leg Length","4.9mm"]]
+            },{
+                "th":[],
+                "tb":[["Packaging",""],["ProSec® Plus Skin Stapler","Box of 5"],["Staple Remover","Box of 20"]]
+            },{
+                "th":["Code","Description","Size"],
+                "tb":[["LPSSP","ProSec Plus Skin Stapler","35 Wide"],["LSR","Staple Remover","-"]]
+            }
+        ],
+        "description": "The ProSec® Plus Skin Stapler is a sterile, single patient use instrument designed to deliver rectangular, stainless steel staples for routine wound closure. The staples are made of lubricant- coated stainless steel. The ProSec Plus Skin Stapler places single staples to close surgical incisions. It is supplied sterile and is preloaded for single patient use.",
+        "features": {
+            "Distinctive Features":[
+                "Easy staple extraction.",
+                "Superior cosmetic results-promotes blood supply and faster scar-free healing.",
+                "Minimizes staple rotation.",
+                "Uncompromised visibility, comfort and control.",
+                "Staples are coated with lubricant."
+            ]
+        },
+        "pdf": "https://example.com/docs/ecosmart-blender-specs.pdf",
+        "application": ""
+      },
+      {
+        "productName": "Curved Cutter",
+        "productImage": "/prd/curved-cutter.png",
+        "category": "Endo Staplers",
+        "productCode": "CA006",
+        "productDetails": [
+            {
+                "th":["Ref. Code","Description","Length","Staple Leg Length","closed Staple Height"],
+                "tb":[["LPCC40G","Curved Cutter","40mm","4.8mm","2.0mm"]]
+            }
+        ],
+        "description": "ProSec® Curved Cutter is a single-use instrument used in colo-rectal procedures that require deeper access within the pelvis. Its unique curved head places 2 double staggered rows of staples and a curved blade cuts in between. Prosec® Curved Cutter allows for placement of a 40mm cutline in the width of a 30mm space with low pelvic access.",
+        "features": {
+            "Distinctive Features":[
+                "Curved head enables deep pelvic access",
+                "Easier placement for better tissue manipulation",
+                "Ability to transect perpendicular to the rectum helps avoid a longer staple line",
+                "Less tissue movement for more controlled transection",
+                "Simultaneous stapling and cutting",
+                "Optimized staple formation"
+            ]
+        },
+        "pdf": "https://example.com/docs/ecosmart-blender-specs.pdf",
+        "application": ""
+      }
+      
+    ]
+  }
+  

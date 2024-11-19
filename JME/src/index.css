@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  font-family: "Inter", serif;
+}
+
+@keyframes wave {
+  0% {
+    background-position: 100% 100%;
+  }
+  50% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 100% 100%;
+  }
+}
+
+.animate-wave {
+  animation: wave 3s ease-in-out infinite;
+  background-size: 300% 100%;
+}
+.clip-wave {
+  clip-path: polygon(0% 100%, 100% 100%, 100% 0%, 0% 70%, 50% 80%, 0% 100%);
+}
